@@ -18,4 +18,3 @@ cf.877774.xyz#HK
 cdns.doon.eu.org#JP
 sub.danfeng.eu.org#TW
 cf.zhetengsha.eu.org#HK
-https://yx.ccssoo.netlib.re/123/edgetunnel.txt?port=443
