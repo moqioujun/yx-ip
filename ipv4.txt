@@ -3,18 +3,17 @@
 172.64.153.181#h4
 104.18.38.41#h2
 104.25.247.7#h5
-162.159.40.190#65.32MB/s-SIN
-172.64.149.62#65.2MB/s-SIN
-104.18.40.161#65.03MB/s-SIN
-162.159.60.155#65.38MB/s-SIN
-104.18.42.194#64.79MB/s-SIN
-mfa.gov.ua#SG
-saas.sin.fan#HK 
+www.shopify.com#Shopify官方优选
+mfa.gov.ua#SG 乌克兰外交部
+saas.sin.fan#HK Ubisoft
 store.ubi.com#JP
 cf.130519.xyz#KR
 cf.008500.xyz#HK 
 cf.090227.xyz#SG 
-cf.877774.xyz#HK
+cf.877774.xyz#HK秋名山维护
+cdns.doon.eu.org#JP
+sub.danfeng.eu.org#TW
+cf.zhetengsha.eu.org#HK
 cdns.doon.eu.org#JP
 sub.danfeng.eu.org#TW
 cf.zhetengsha.eu.org#HK
