@@ -1,8 +1,6 @@
 172.64.146.174#h1
 104.25.251.177#h3
-172.64.153.181#h4
 104.18.38.41#h2
-104.25.247.7#h5
 www.shopify.com#Shopify官方优选
 mfa.gov.ua#SG 乌克兰外交部
 saas.sin.fan#HK Ubisoft
@@ -14,6 +12,4 @@ cf.877774.xyz#HK秋名山维护
 cdns.doon.eu.org#JP
 sub.danfeng.eu.org#TW
 cf.zhetengsha.eu.org#HK
-cdns.doon.eu.org#JP
-sub.danfeng.eu.org#TW
-cf.zhetengsha.eu.org#HK
+sjc.o00o.ooo#反代sjc.o00o.ooo
