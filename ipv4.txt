@@ -13,3 +13,10 @@ cdns.doon.eu.org#JP
 sub.danfeng.eu.org#TW
 cf.zhetengsha.eu.org#HK
 sjc.o00o.ooo#反代sjc.o00o.ooo
+hk.881288.xyz:443#香港 (proxyip.881288.xyz)
+tw.881288.xyz:8443#台湾 (proxyip.881288.xyz)
+sg.881288.xyz:443#新加坡 (proxyip.881288.xyz)
+jp.881288.xyz:443#日本 (proxyip.881288.xyz)
+kr.881288.xyz:2096#韩国 (proxyip.881288.xyz)
+us.881288.xyz:2087#美国 (proxyip.881288.xyz)
+
