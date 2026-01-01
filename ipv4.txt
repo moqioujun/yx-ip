@@ -1,10 +1,9 @@
+108.162.198.8#US
 172.64.146.174#h1
 104.25.251.177#h3
 104.18.38.41#h2
-www.shopify.com#Shopify官方优选
 mfa.gov.ua#SG 乌克兰外交部
 saas.sin.fan#HK Ubisoft
-store.ubi.com#JP
 cf.130519.xyz#KR
 cf.008500.xyz#HK 
 cf.090227.xyz#SG 
@@ -13,12 +12,7 @@ cdns.doon.eu.org#JP
 sub.danfeng.eu.org#TW
 cf.zhetengsha.eu.org#HK
 sjc.o00o.ooo#反代sjc.o00o.ooo
-hk.881288.xyz:443#香港
-tw.881288.xyz:8443#台湾
-sg.881288.xyz:443#新加坡
 jp.881288.xyz:443#日本
-kr.881288.xyz:2096#韩国
-us.881288.xyz:2087#美国
 jp.svp.us.ci#日本优选
 us.svp.us.ci#美国优选
 sg.svp.us.ci#新加坡优选
