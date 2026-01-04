@@ -5,6 +5,9 @@
 108.162.196.249#新加坡2
 108.162.194.235#新加坡3
 saas.sin.fan#HK Ubisoft
+dx.ccss.de5.net
+yd.ccss.de5.net
+lt.ccss.de5.net
 bp1.ccss.de5.net
 bp2.ccss.de5.net
 bp3.ccss.de5.net
