@@ -15,6 +15,7 @@ cdns.doon.eu.org#JP
 sub.danfeng.eu.org#TW
 cf.zhetengsha.eu.org#HK
 sjc.o00o.ooo#反代sjc.o00o.ooo
+proxy.xxxxxxxx.tk:50001#otc韩国反代
 jp.881288.xyz:443#日本
 jp.svp.us.ci#日本优选
 us.svp.us.ci#美国优选
