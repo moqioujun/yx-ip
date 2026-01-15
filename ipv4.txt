@@ -21,8 +21,7 @@ cf.877774.xyz#HK秋名山维护
 cdns.doon.eu.org#JP
 sub.danfeng.eu.org#TW
 cf.zhetengsha.eu.org#HK
-sjc.o00o.ooo#反代sjc.o00o.ooo
-proxy.xxxxxxxx.tk#otc韩国反代proxy.xxxxxxxx.tk:50001
+sjc.o00o.ooo#反代sjc
 jp.881288.xyz:443#日本
 jp.svp.us.ci#日本优选
 us.svp.us.ci#美国优选
