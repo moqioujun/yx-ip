@@ -6,7 +6,7 @@ bestcf.030101.xyz#BestDomain官方
 108.162.196.249#新加坡2
 108.162.194.235#新加坡3
 saas.sin.fan#HK Ubisoft
-api.3666888.xyz#hutaoyaovo维护
+cf.3666888.xyz#hutaoyaovo维护
 dx.ccss.de5.net#电信自动
 yd.ccss.de5.net#移动自动
 lt.ccss.de5.net#联通自动
