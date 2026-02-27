@@ -1,20 +1,12 @@
 108.162.198.8#US
-172.64.146.174#h1
-104.18.38.41#h2
 bestcf.030101.xyz#BestDomain官方
 162.159.23.64#新加坡1
 108.162.196.249#新加坡2
 108.162.194.235#新加坡3
 saas.sin.fan#HK Ubisoft
 cf.3666888.xyz#hutaoyaovo维护
-dx.ccss.de5.net#电信自动
-yd.ccss.de5.net#移动自动
-lt.ccss.de5.net#联通自动
 cf.130519.xyz#KR
 cf.008500.xyz#HK 
 cf.877774.xyz#HK秋名山维护
 cdns.doon.eu.org#JP
 sub.danfeng.eu.org#TW 
-jp.svp.us.ci#日本优选
-us.svp.us.ci#美国优选
-sg.svp.us.ci#新加坡优选
