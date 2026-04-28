@@ -11,3 +11,4 @@ cf.877774.xyz#HK秋名山维护
 cdns.doon.eu.org#JP
 sub.danfeng.eu.org#TW 
 cf.tencentapp.cn#电信移动
+108.162.198.211#电信极速
