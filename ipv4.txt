@@ -1,8 +1,5 @@
 108.162.198.8#US
 bestcf.030101.xyz#BestDomain官方
-162.159.23.64#新加坡1
-108.162.196.249#新加坡2
-108.162.194.235#新加坡3
 saas.sin.fan#HK Ubisoft
 cf.3666888.xyz#hutaoyaovo维护
 cf.130519.xyz#KR
@@ -12,3 +9,5 @@ cdns.doon.eu.org#JP
 sub.danfeng.eu.org#TW 
 cf.tencentapp.cn#电信移动
 108.162.198.211#电信极速
+proxy.superhumanvssuperopen.dpdns.org#JP反代
+proxy.xinyitang.dpdns.org#HK反代
