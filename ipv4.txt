@@ -1,5 +1,4 @@
 207.57.121.243:443
-207.57.121.40:443
 207.57.132.183:443
 207.57.132.220:443
 162.159.49.78#新加坡1
@@ -13,7 +12,5 @@ cf.3666888.xyz#hutaoyaovo维护
 cf.130519.xyz#KR
 cf.008500.xyz#HK 
 cf.877774.xyz#HK秋名山维护
-cdns.doon.eu.org#JP
-sub.danfeng.eu.org#TW 
-cf.tencentapp.cn#电信移动
+cdns.doon.eu.org#JP 
 108.162.198.211#电信极速
