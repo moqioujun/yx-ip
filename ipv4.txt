@@ -1,6 +1,7 @@
-jp.ooou.eu.cc#日本自建优选
-sg.ccssoo.ggff.net#新加坡自建优选
-us.ooou.eu.cc:2053#美国自建优选🇺🇸
+jp.ooou.eu.cc#日本自建_eu.cc
+sg.ccssoo.ggff.net#新加坡自建_ggff.net
+sg.9kk.9k.beer#新加坡自建_hapdns
+us.ooou.eu.cc:2053#美国自建🇺🇸_eu.cc
 bestcf.030101.xyz#BestDomain官方
 saas.sin.fan#HK Ubisoft
 cf.3666888.xyz#hutaoyaovo维护
