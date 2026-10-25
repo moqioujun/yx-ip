@@ -1,18 +1,18 @@
 nrt.gn0.cc:443#日本自建_hapdns
-cc.cci.indevs.in#新加坡自推_ci.indevs.in
-sg.ccssoo.ggff.net#新加坡自建_ggff.net
-sg.9kk.9k.beer#新加坡自建_hapdns
+cc.cci.indevs.in:443#新加坡自推_ci.indevs.in
+sg.ccssoo.ggff.net:443#新加坡自建_ggff.net
+sg.9kk.9k.beer:443#新加坡自建_hapdns
 us.ooou.eu.cc:2053#美国自建🇺🇸_eu.cc
 fuli.lovie.me:4443#TW自建_lovie.me
-cf.3666888.xyz#胡桃优选
-yxip.avotc.de5.net#OTC优选
-cn.avotc.de5.net#OTC移动优选
-bestcf.030101.xyz#BestDomain官方
-saas.sin.fan#HK Ubisoft
-cf.3666888.xyz#hutaoyaovo维护
-cf.130519.xyz#KR
-cf.008500.xyz#HK 
-cf.877774.xyz#HK秋名山维护 
+cf.3666888.xyz:443#胡桃优选
+yxip.avotc.de5.net:443#OTC优选
+cn.avotc.de5.net:443#OTC移动优选
+bestcf.030101.xyz:443#BestDomain官方
+saas.sin.fan:443#HK Ubisoft
+cf.3666888.xyz:443#hutaoyaovo维护
+cf.130519.xyz:443#KR
+cf.008500.xyz:443#HK 
+cf.877774.xyz:443#HK秋名山维护 
 
 
 
