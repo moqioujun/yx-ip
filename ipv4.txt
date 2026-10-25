@@ -1,4 +1,4 @@
-nrt.gn0.cc#日本自建_hapdns
+nrt.gn0.cc:443#日本自建_hapdns
 cc.cci.indevs.in#新加坡自推_ci.indevs.in
 sg.ccssoo.ggff.net#新加坡自建_ggff.net
 sg.9kk.9k.beer#新加坡自建_hapdns
