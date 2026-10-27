@@ -6,7 +6,7 @@ us.ooou.eu.cc:2053#美国自建🇺🇸_eu.cc
 fuli.lovie.me:4443#TW自建_lovie.me
 cf.3666888.xyz:443#胡桃优选
 yxip.avotc.de5.net:443#OTC优选
-cn.avotc.de5.net:443#OTC移动优选
+yxip.bbbbbbbb.kdns.fr:443#OTC移动优选
 bestcf.030101.xyz:443#BestDomain官方
 saas.sin.fan:443#HK Ubisoft
 cf.3666888.xyz:443#hutaoyaovo维护
