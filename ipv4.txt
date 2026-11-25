@@ -2,7 +2,7 @@ nrt.gn0.cc:443#日本自测_hapdns
 sg.cci.indevs.in:443#新加坡手机推_indevs.in
 sg.ccssoo.ggff.net:443#自测移动_ggff.net
 sg.9kk.niuma.club:443#新加坡自测_hapdns
-yxip.moooooo.dpdns.org:443#美国自动
+yxip.moooooo.dpdns.org:443#日本自动
 hk.fuli.hidns.vip:443#香港自动
 sg.fuli.hidns.vip:443#新加坡自动
 us.ooou.eu.cc:443#美国自测🇺🇸_eu.cc
